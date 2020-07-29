@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330919614345",
+    "firebase_url": "https://price-pedictor.firebaseio.com",
+    "project_id": "price-pedictor",
+    "storage_bucket": "price-pedictor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330919614345:android:0950a65b52f238cc11b358",
+        "android_client_info": {
+          "package_name": "com.adarsh.pricepedictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330919614345-44vjjapvs2cinocguag6o4q29c9nl5gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0RSJZ-hmNIniuxo-2z0C01OdVqcA1v90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330919614345-44vjjapvs2cinocguag6o4q29c9nl5gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
